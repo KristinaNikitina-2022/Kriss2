@@ -1,0 +1,15 @@
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\bin\Debug\net6.0\Практика003.exe
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\bin\Debug\net6.0\Практика003.deps.json
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\bin\Debug\net6.0\Практика003.runtimeconfig.json
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\bin\Debug\net6.0\Практика003.dll
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\bin\Debug\net6.0\Практика003.pdb
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\Практика003.csproj.AssemblyReference.cache
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\Практика003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\Практика003.AssemblyInfoInputs.cache
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\Практика003.AssemblyInfo.cs
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\Практика003.csproj.CoreCompileInputs.cache
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\Практика003.dll
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\refint\Практика003.dll
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\Практика003.pdb
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\Практика003.genruntimeconfig.cache
+C:\Users\mirab\OneDrive\Рабочий стол\Лекция1\Практика003\obj\Debug\net6.0\ref\Практика003.dll
